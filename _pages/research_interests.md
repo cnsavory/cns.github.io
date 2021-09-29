@@ -7,8 +7,6 @@ author_profile: true
 
 ## Inorganic Perovskite Phosphors
 
-<center><img src="{{ site.baseurl }}/assets/tio2-codoping-toc.png"  width="auto" width="300" /></center>
-
 One of the most wide-scale and effective energy savings that can be established worldwide to reduce humanity's ravenous energy demand is the switch from traditional incandescent lighting to solid-state lighting through light-emitting diodes or phosphors. As well as being highly successful in photovoltaics, halide perovskites have become highly popular as light emitters - my research in this area involves searching for low-dimensional or alternative perovskite light emitters that can provide soft, white light while containing sustainable, low-cost elements.
 
 ### Selected Publications
@@ -18,8 +16,6 @@ One of the most wide-scale and effective energy savings that can be established 
 
 
 ## Thin-film Photovoltaics
-
-<center><img src="{{ site.baseurl }}/assets/tio2-codoping-toc.png"  width="auto" width="300" /></center>
 
 Any strategy to tackle the current climate crisis requires the transition towards renewable energy sources - with the amount of solar energy hitting the Earth in a year vastly exceeding that contained in fossil fuel reserves, photovoltaic cells, which can directly convert this energy into electricity, are a crucial technology in both the present and humanity's future. Silicon is the most popular photovoltaic material, however it is fundamentally a poor absorber of light. Our research examines alternative emergent inorganic photovoltaics that could enable cheap, efficient and flexible devices of the future.
 
@@ -32,8 +28,6 @@ Any strategy to tackle the current climate crisis requires the transition toward
 #### *ACS Energy Letters, **2016** 1, 949-955* -- DOI:[10.1021/acsenergylett.6b00471](https://doi:10.1021/acsenergylett.6b00471)
 
 ## Beyond-DFT methods
-
-<center><img src="{{ site.baseurl }}/assets/tio2-codoping-toc.png"  width="auto" width="300" /></center>
 
 Density Functional Theory (DFT) has become the most popular, highly adaptable theoretical technique for predicting and explaining the electronic structure of chemical solids. Typical implementations, however, suffer from several drawbacks due to treating electrons as independent particles - a better description of correlated, interacting electrons is necessary for accurately describing the excited states of solids that are crucial for both light emission and photovoltaic behaviour. As such, we have recently made use of beyond-DFT methods such as quasiparticle self-consistent GW theory to push the boundary of materials property prediction.
 
