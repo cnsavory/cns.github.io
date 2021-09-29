@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Dr. Chris Savory"
 title_separator          : "-"
 name                     : &name "Chris Savory"
@@ -85,7 +85,7 @@ author:
   bio              : "Ramsay Fellow at UCL, London. Computational Materials Chemist"
   location         : "University College London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OzBu_nAAAAAJ&hl=en"
   email            : "uccacns@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
