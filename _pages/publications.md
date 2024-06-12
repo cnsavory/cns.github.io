@@ -5,7 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-S.R. Kavanagh, **C.N. Savory**, D.O. Scanlon, A. Walsh. ‘Hidden spontaneous polarisation in the chalcohalide photovoltaic Sn2SbS2I3’, Materials Horizons (2021) doi: doi:10.1039/D1MH00764E 
+A. G. Squires, L. Ganeshkumar, S.R. Kavanagh, **C.N. Savory** and D.O. Scanlon. ‘Oxygen dimerization as a defect-driven process in bulk LiNiO2’, ChemRxiv  (2024) doi:10.26434/chemrxiv-2024-lcmkj 
+
+L. Huo and **C.N. Savory**. ‘Assessing the Electronic and Optical Properties of Lanthanum Diselenide: a computational study’, Journal of Materials Chemistry C, Accepted (2024) doi: 10.1039/D3TC02833J 
+
+Z. Liu, M.A. Haque, **C.N. Savory**, T. Liu, S. Matsuishi et al. ‘Controlling the thermoelectric properties of organometallic coordination polymers through backbone geometry, Faraday Discussions Advance Article (2024) doi: 10.1039/D3FD00139C
+
+H. Bhatia, J. Guo, **C.N. Savory**, M. Rush, D.I. James et al. ‘Exploring Bismuth Coordination Complexes as Visible-Light Absorbers: Synthesis, Characterization, and Photophysical Properties, Inorganic Chemistry 63, 416-430 (2023) doi: 10.1021/acs.inorgchem.3c03290
+
+K. Brlec, **C.N. Savory** and D.O. Scanlon. ‘Understanding the electronic structure of Y2Ti2O5S2 for green hydrogen production: a hybrid-DFT and GW study’, Journal of Materials Chemistry A 11, 16776-16787 (2023) doi: 10.1039/D3TA02801A
+
+A. Nicholson, S.R. Kavanagh, **C.N. Savory**, G.W. Watson and D.O. Scanlon. ‘Cu2SiSe3 as a promising solar absorber: harnessing cation dissimilarity to avoid killer antisites’, Journal of Materials Chemistry A 11, 14833-14839 (2023) doi: 10.1039/D3TA02429F
+
+M.A. Cassingham, Y.G. Goh, E.T. McClure, T.L. Hodgkins, W. Zhang et al. ‘Polarizable Anionic Sublattices Can Screen Molecular Dipoles in Noncentrosymmetric Inorganic-Orgnaic Hybrids’, ACS Applied Materials & Interfaces 15, 18006-18011 (2023)  doi: 10.1021/acsami.2c20648 
+
+JR. Agbenyeke, J.W. Andreasen, N. Benhaddou, J.W. Bowers, J. Breternitz et al. ‘Materials design and bonding: general discussion’, Faraday Discussions 239, 375-404 (2022)  doi:10.1039/D2FD90058K
+
+J.W. Andreasen, J. Breternitz, M. Bär, P.J. Dale, M. Dimitrievska et al. ‘Bulk and surface characterisation techniques of solar absorbers: general discussion’, Faraday Discussions 239, 180-201 (2022)  doi:10.1039/D2FD90056D 
+
+T.D.C. Hobson, H. Shiel, **C.N. Savory**, J.E.N. Swallow, L.A.H. Jones et al. ‘p-type conductivity in Sn-doped Sb2Se3’, Journal of Physics: Energy 4, 045006 (2022) doi:10.1088/2515-7655/ac91a6
+
+S.R. Kavanagh, **C.N. Savory**, S.M. Liga, G. Konstantatos, A. Walsh and D.O. Scanlon ‘Frenkel Excitons in Vacancy-ordered Titanium Halide Perovksites (Cs2TiX6)’, Journal of Physical Chemistry Letters, 13, 10965-10975 (2022) doi:10.1021/acs.jpclett.2c02436 
+
+K. Brlec, S.R. Kavanagh, **C.N. Savory** and D. O. Scanlon. ‘Understanding the Photocatalytic Activity of La5Ti2AgS5O7 and La5Ti2CuS5O7 for Green Hydrogen Production: Computational Insights’, ACS Applied Energy Materials, 5, 1992-2001 (2022) doi:10.1021/acsmaterialslett.0c00393 
+
+S.R. Kavanagh, **C.N. Savory**, D.O. Scanlon, A. Walsh. ‘Hidden spontaneous polarisation in the chalcohalide photovoltaic Sn2SbS2I3’, Materials Horizons, 8, 2709-2716 (2021) doi:10.1021/acsmaterialslett.0c00393 
 
 T. Yamamoto, I.W.H Oswald, **C.N. Savory**, T. Ohmi, A.A. Koegel, D.O. Scanlon, H. Kageyama and J.R. Neilson. ‘Structure and Optical Properties of Layered Perovskite (MA)2PbI2-xBrx(SCN)2 (0≤x<1.6)’, Inorganic Chemistry, 59, 17379-17384 (2020) doi: doi:10.1021/acs.inorgchem.0c02686 
 
